@@ -1,5 +1,3 @@
-#Assignment 2. Arash Maskooki
-
 # Description
 The code finds frequent item-sets using SON algorithm. The candidate frequent item-sets are extracted per worker using a Priori algorithm and then map-reduce features are used to find the actual frequent item-sets.
 
